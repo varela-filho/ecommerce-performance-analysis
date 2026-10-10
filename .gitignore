@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+.ipynb_checkpoints/
+
+# Client data
+data/raw/
+data/processed/
+
+# Temporary files
+*.tmp
+*.log
